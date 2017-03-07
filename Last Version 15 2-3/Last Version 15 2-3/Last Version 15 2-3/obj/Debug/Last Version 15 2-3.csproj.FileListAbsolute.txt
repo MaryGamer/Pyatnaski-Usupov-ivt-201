@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\Last Version 15 2-3\Last Version 15 2-3\bin\Debug\Last Version 15 2-3.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Last Version 15 2-3\Last Version 15 2-3\bin\Debug\Last Version 15 2-3.exe
+c:\users\user\documents\visual studio 2012\Projects\Last Version 15 2-3\Last Version 15 2-3\bin\Debug\Last Version 15 2-3.pdb
+c:\users\user\documents\visual studio 2012\Projects\Last Version 15 2-3\Last Version 15 2-3\obj\Debug\Last Version 15 2-3.exe
+c:\users\user\documents\visual studio 2012\Projects\Last Version 15 2-3\Last Version 15 2-3\obj\Debug\Last Version 15 2-3.pdb
